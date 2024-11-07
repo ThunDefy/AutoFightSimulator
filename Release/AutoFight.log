@@ -1,0 +1,27 @@
+﻿  AutoFight.cpp
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(67): warning C4018: >=: несоответствие типов со знаком и без знака
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(229): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(290): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(354): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\autofight.cpp(154): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  Source.cpp
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(67): warning C4018: >=: несоответствие типов со знаком и без знака
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(229): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(290): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\header.h(354): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\source.cpp(17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\source.cpp(18): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+e:\учеба\3 семак\ооп\курсовая\autofight\source.cpp(27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+e:\учеба\3 семак\ооп\курсовая\autofight\source.cpp(28): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  Создание кода
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  AutoFight.vcxproj -> E:\Учеба\3 Семак\ООП\Курсовая\AutoFight\x64\Release\AutoFight.exe
